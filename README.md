@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/mISQXES.jpg)
+![Imgur](https://i.imgur.com/mISQXES.jpg)
 
 # React Express Starter Pack
 > Create Full Stack applications with React, Node, Express and Sass. Also included is to run your client and server with a single command.
