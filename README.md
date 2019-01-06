@@ -1,6 +1,7 @@
-[Imgur](https://i.imgur.com/mISQXES.jpg)
+![Imgur](https://i.imgur.com/JWJEE7J.png)
 
 # React Express Starter Pack
+
 > Create Full Stack applications with React, Node, Express and Sass. Also included is to run your client and server with a single command.
 
 ## Installing / Getting started
@@ -30,9 +31,10 @@ npm run client
 ## Features
 
 What's all the bells and whistles this project can perform?
-* Starter kit for creating a Full Stack applications using `React` and `Express`
-* You have the ability to use `Sass`
-* `Axios` is brought in to handle HTTP request on the server
+
+- Starter kit for creating a Full Stack applications using `React` and `Express`
+- You have the ability to use `Sass`
+- `Axios` is brought in to handle HTTP request on the server
 
 ## Contributing
 
@@ -41,7 +43,7 @@ branch. Pull requests are warmly welcome.
 
 ## Links
 
-- Repository: https://github.com/your/awesome-project/
+- Repository: https://github.com/phaybein/react-express-starter-pack-/
 
 ## Licensing
 
