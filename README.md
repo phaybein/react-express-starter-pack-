@@ -41,6 +41,14 @@ What's all the bells and whistles this project can perform?
 If you'd like to contribute, please fork the repository and use a feature
 branch. Pull requests are warmly welcome.
 
+## Author
+
+Mauro M. [FMWebCo](https://www.fmwebco.com)
+
+## Version
+
+1.0.0
+
 ## Links
 
 - Repository: https://github.com/phaybein/react-express-starter-pack-/
